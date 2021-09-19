@@ -1,0 +1,42 @@
+/***************** Tag *********************/
+body{
+    margin: 0px;
+    text-align: center;
+    margin: 0;
+    font-family: helvetica,'Merriweather', serif;
+}
+h1{
+    margin-top:0px;
+    padding-top: 100px;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+/***************** Class *********************/
+.Top-Container{
+    background-color:#E4F9f5;
+}
+.Middle-Container{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+.Bottom-Container{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+.top-cloud {
+    position: absolute;
+    right: 400px;
+    top: 40px;
+}
+.pro {text-decoration-line: underline;}
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+}
